@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'crud_agendamentos';
+$dbname = 'crud_frutas';
 $username = 'root';
 $password = '';
 

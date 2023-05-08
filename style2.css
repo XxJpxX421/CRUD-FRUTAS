@@ -1,0 +1,20 @@
+button[type="submit"], button[type="button"]{
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    }
+    
+    button[type="submit"], button[type="button"]:hover {
+    background-color: #0056b3;
+    }
+
+    a:link { text-decoration: none; }
+    
+    a:visited { text-decoration: none; }
+    
+    a:active { text-decoration: none; }
